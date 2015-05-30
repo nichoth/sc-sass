@@ -4,7 +4,7 @@
   "authors": [
     "nichoth <nichoth@gmail.com>"
   ],
-  "main": "main.scss",
+  "main": "_sc-sass.scss",
   "license": "MIT",
   "ignore": [
     "**/.*",

@@ -1,0 +1,49 @@
+// ----------------------------------------
+// Colors
+// ----------------------------------------
+
+$black: black!default;
+$darkGray: #4a4a4a!default;
+$darkMedGray: #58585B;
+$medGray: #7F7B8C!default;
+$lightGray: #bcbec0!default;
+$offWhite: #f8f8f8;
+$white: white!default;
+
+// -----------------------------------
+
+$hoverColor: pink!default;
+
+$buttonHoverColor:  $hoverColor!default;
+$buttonColor:       $lightGray!default;
+$buttonActiveColor: pink!default;
+
+$linkColor:         $darkMedGray;
+$linkActiveColor:   pink!default;
+$linkHoverColor:    $linkActiveColor!default;
+$linkVisitedColor:  $medGray;
+$bodyLinkColor:     $lightGray!default;
+
+$navTextColor:  $black!default;
+$navBgColor:    $darkGray!default;
+$navHoverColor: $hoverColor!default;
+
+// Type color
+$baseTextColor: $black!default;
+
+$hrColor: $lightGray!default;
+
+
+
+//---------------------------------------------
+// Typography Variables
+//---------------------------------------------
+
+$serifFontStack:  Georgia, serif!default;
+$sansFontStack:   Helvetica, Arial, sans-serif!default;
+$baseFontFamily:  $sansFontStack!default;
+
+
+$baseFontSize: 1rem!default;
+$baseLineHeight: 1.5!default;   //must be unitless (multiplies our font size)
+$baseSpacing: 1em!default;   //vertical spacing (our base leading)

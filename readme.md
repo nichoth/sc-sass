@@ -1,5 +1,7 @@
 # sc-sass
 
+Minimal sass boilerplate.
+
 ```
 $ bower install sc-sass
 ```

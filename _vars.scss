@@ -25,12 +25,10 @@ $linkVisitedColor:  $medGray;
 $bodyLinkColor:     $lightGray!default;
 
 $navTextColor:  $black!default;
-$navBgColor:    $darkGray!default;
 $navHoverColor: $hoverColor!default;
 
 // Type color
 $baseTextColor: $black!default;
-
 $hrColor: $lightGray!default;
 
 
@@ -42,7 +40,7 @@ $hrColor: $lightGray!default;
 $serifFontStack:  Georgia, serif!default;
 $sansFontStack:   Helvetica, Arial, sans-serif!default;
 $baseFontFamily:  $sansFontStack!default;
-
+$headFont:        $sansFontStack;
 
 $baseFontSize: 1rem!default;
 $baseLineHeight: 1.5!default;   //must be unitless (multiplies our font size)

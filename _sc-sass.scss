@@ -4,3 +4,15 @@
 @import "bower_components/sass-lists/_sass-lists.scss";
 @import "bower_components/silent-clearfix/silent-clearfix";
 
+// basic stuff
+html {
+  font-size: 100%;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
+
+p {
+  margin-bottom: $baseSpacing;
+}
+
+

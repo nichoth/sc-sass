@@ -1,8 +1,8 @@
-@import "normalize.css/normalize.css";
+@import "../normalize.css/normalize.css";
 @import "vars";
-@import "little-grid/little_grid";
-@import "sass-lists/_sass-lists.scss";
-@import "silent-clearfix/silent-clearfix";
+@import "../little-grid/little_grid";
+@import "../sass-lists/_sass-lists.scss";
+@import "../silent-clearfix/silent-clearfix";
 
 // basic stuff
 html {

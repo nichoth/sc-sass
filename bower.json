@@ -15,7 +15,7 @@
   ],
   "dependencies": {
     "little-grid": "*",
-    "normalize.css": "~3.0.3",
+    "normalize-scss": "~3.0.3",
     "sass-lists": "*",
     "silent-clearfix": "*"
   }
